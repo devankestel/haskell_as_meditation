@@ -1,0 +1,1 @@
+# haskell_as_meditation
