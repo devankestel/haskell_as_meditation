@@ -1,4 +1,4 @@
-# Haskell As Meditation
+# Haskell As Meditation (HAM)
 An interactive journey to learning `Haskell` in increments of 15 minutes to 1 hour on a daily basis, with an emphasis on treating it with the same focus one would with guided meditation and the goal of achieving similar benefits.
 
 What do I mean when I say interactive? This whole guide will be like a choose your own adventure book, except with markdowns which link to each other. The choice forks in the adventure will either have to do with different forks in the path due to a learner's personal prior experience with a topic/paradigm (or lack thereof) or forks that allow you to choose a preferred learning style where applicable. The bulk of the content on each markdown will be a links to vetted resources I have learned to use `Haskell` and instructions on how to take best advantage of those resources in a meditative style with the daily time allotment a learner has chosen. 
@@ -39,6 +39,9 @@ Many developers want to learn a purely functional language, like `Haskell`, but 
 
 ## I'm a total programming beginner, and those last two sections above made me scared
 
+## What does HAM have in common with the food ham? 
+* Salty
+* Made up of building blocks
 
 
 
