@@ -13,5 +13,6 @@
     * tutorial functions I know
     * tutorial functions I don't know
   * Have them add doc tests
+  * Picnic Koans for each lesson? 
 * Start out everyone with guided video meditation followed by mantra
 * Encourage everyone to fork so that their journeys can be customized
