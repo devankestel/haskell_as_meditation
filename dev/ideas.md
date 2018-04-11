@@ -8,6 +8,7 @@
       * Text.Regex is stack install regex-compat (backwards compatible version of Text.Regex.Posix)
     * finished.hs whole app 
   * Have people go through and try to figure out what each function does post tutorial
+    * For library functions, look up types on Hoogle. Try to guess them first, if you think you "know" them.
     * library functions I know
     * library functions I don't know
     * tutorial functions I know
