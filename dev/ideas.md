@@ -16,3 +16,8 @@
   * Picnic Koans for each lesson? 
 * Start out everyone with guided video meditation followed by mantra
 * Encourage everyone to fork so that their journeys can be customized
+* Tic Tac Toe TDD (TTTTDD)
+  * recursive joke with T and D and string concat? 
+  * how much of this is a fresh tutorial? 
+  * how much of this is just type it and see what it does? 
+  * Cloud 9 environment
