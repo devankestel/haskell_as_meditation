@@ -1,5 +1,6 @@
 * Take a break to scream either curse words or string of random words.
   * maybe "random" words take a leaf out of The Good Place, and are analogues for curse words e.g. "forking"
+  * maybe "random" words also take a leaf out of nerdy stuff e.g. "Nitwit, Blubber, Oddment, Tweak" 
 * To make Happy Learn less boring for advanced beginners
   * Take notes comparing to other functional language they know well
   * Make own koans to add to koans
