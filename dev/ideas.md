@@ -22,3 +22,5 @@
   * how much of this is a fresh tutorial? 
   * how much of this is just type it and see what it does? 
   * Cloud 9 environment
+* Merge Dragons clone logic in haskell as TDD activity?
+  * might be really good for algebraic data type
