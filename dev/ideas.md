@@ -26,3 +26,7 @@
   * Cloud 9 environment
 * Merge Dragons clone logic in haskell as TDD activity?
   * might be really good for algebraic data type
+* Meditation
+  * When to return to the mantra 
+  * Reaching saturation
+  * Practice!
