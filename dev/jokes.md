@@ -33,3 +33,8 @@ doesntCare = do
 Let me drop on you some Right Folded Honesty: 
 
 Let me drop on you some Mapped Honesty: 
+
+Meme Jokes
+
+* I can haz Hazkell (LOLcats)
+* Let me Hoogle that for you
