@@ -38,3 +38,4 @@ Meme Jokes
 
 * I can haz Hazkell (LOLcats)
 * Let me Hoogle that for you
+* Yo Dawg = recursive meme
