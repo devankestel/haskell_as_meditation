@@ -19,4 +19,5 @@
     
     * with one dedicated "Fingers to Keys" exercise at a time
     * with one dedicated "Reading for Understanding" exercise at a time
+    * maintaining a 50/50 balance between the two types of practice
   
