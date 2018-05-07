@@ -2,7 +2,7 @@
 
 * I will...
 
-  * Empty my mind of all previous coding knowledge in other language, to ensure my focus on Haskell
+  * Empty my mind of all previous coding knowledge in other languages, to ensure my focus on Haskell
   
   * Focus on Haskell as a journey, rather than a destination by...
   
