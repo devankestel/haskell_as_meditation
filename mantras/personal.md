@@ -15,6 +15,13 @@
   
   * Stop my practice when my mind becomes saturated with new information, until I am again refreshed
   
+  * Refocus during times of self-doubt or frustration by...
+    
+    * reminding myself of the goals of this practice by re-reading it
+    * reminding myself of my increased understanding by recounting Haskell wisdom I did not know before starting this practice
+    * pausing to breathe or stretch
+    * pausing to vent my frustration through expletives or nonsense words until I run out of them
+  
   * Study Haskell for a duration between 15 minutes and 1 hour every day...
     
     * with one dedicated "Fingers to Keys" exercise at a time
