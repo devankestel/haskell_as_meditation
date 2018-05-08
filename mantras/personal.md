@@ -22,7 +22,7 @@
     * pausing to breathe or stretch
     * pausing to vent my frustration through expletives or nonsense words until I run out of them
   
-  * Study Haskell for a duration between 15 minutes and 1 hour every day...
+  * Meditate on Haskell for a duration between 15 minutes and 1 hour every day...
     
     * with one dedicated "Fingers to Keys" exercise at a time
     * with one dedicated "Reading for Understanding" exercise at a time
