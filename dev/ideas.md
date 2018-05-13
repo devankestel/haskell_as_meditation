@@ -52,7 +52,7 @@
   * Use full Haskelleton or not? 
   * This could be a great TDD experience if I set it up with the Haskelleton already done for them
 * Haskell School of Music
-  * 
+  * http://haskell.cs.yale.edu/wp-content/uploads/2015/03/HSoM.pdf
   * Great because we have one extended example for learning Haskell, instead of many contrived examples as in a regular text book
   * Free version is not the most current version of the book, but that won't matter for our purposes
   * Just read through, and don't let the music theory intimidate you
@@ -62,7 +62,7 @@
     * Mussila
     * UCLA Music Theory
 * HowIStart tutorial
-  * http://haskell.cs.yale.edu/wp-content/uploads/2015/03/HSoM.pdf
+  * http://howistart.org/posts/haskell/1/index.html
   * Good for understanding some stuff about config
   * Bad as a beginning to Haskell
   * Good for setting up a first unit test, but won't teach TDD successfully
