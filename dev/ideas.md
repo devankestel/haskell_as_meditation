@@ -1,3 +1,7 @@
+* README or Meditation section or both? 
+  * What if I told you that you have two solid 40 hour work weeks to learn X? That is what 15 min a day translates to over the course of a year, even if you miss your practice 10% of the time. 
+  * This time is more focused than 2 work weeks would be because you're focused the entire time you're working.
+  * This time is more planful, because as you continue your practice, you'll be thinking about what you're going to do for that 15 minutes every day during automatically at other times, AKA in the shower etc.
 * Happy Learn 
   * http://www.happylearnhaskelltutorial.com/contents.html
   * Just focus on reading, exercises are boderline useless
