@@ -32,6 +32,8 @@
   * Will give you the process of learning about errors you might encounter bc you'll mess up and start building muscle memory
 * Start out everyone with guided video meditation followed by mantra
 * Encourage everyone to fork so that their journeys can be customized
+* In general, have people low-fi wireframe their code to start understanding the structure of the language and get down to base concepts - hands-on application of "the squint test" and gets coders thinking like designers
+  * layers - type signatures are above funtions, and low-fi frames above that
 * Tic Tac Toe TDD (TTTTDD)
   * Type tac toe? Must evaluate - http://chrispenner.ca/posts/type-tac-toe
   * recursive joke with T and D and string concat? 
