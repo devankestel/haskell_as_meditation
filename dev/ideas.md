@@ -81,6 +81,9 @@
   * Mantra sound?
   * Nonsense Nerd-culture Words Page "Nitwit, Blubber, Oddment, Tweak"
   * Fake Curses Page (e.g. Forking)
+  * Backsliding, how to get back on the wagon
+* Motivation
+  * Cake analogy
 * Getting Started
   * Stack + asdf
     * https://github.com/vic/asdf-haskell
